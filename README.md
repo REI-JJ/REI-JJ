@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=CCDBE4&center=true&vCenter=true&width=500&height=60&lines=Hey+I'm+TOM%C3%81S;20+years+old;wannabe+fivem+dev;still+a+shit..)](https://git.io/typing-svg)
 
-##
-<p>Github Stats 😢</p>
+## Github Stats 😢
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REI-JJ&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
     
