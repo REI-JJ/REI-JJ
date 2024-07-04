@@ -1,8 +1,26 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton+SC&size=25&duration=4000&pause=1000&color=F7F7F7&random=false&width=438&lines=HEY+I%60M+TOM%C3%81S;I%60M+20+YEARS+OLD;WANNABE+FIVEM+DEV;STILL+A+SHIT..+%3A(" alt="Typing SVG" /></a></p>
+<div align="center">
 
-<h1 align="center"><strong>SKILLS</strong></h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,mysql,html,js,css,typescript,react" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=CCDBE4&center=true&vCenter=true&width=500&height=60&lines=Hey+I'm+TOM%C3%81S;20+years+old;wannabe+fivem+dev;still+a+shit..)](https://git.io/typing-svg)
+
+##
+<p>Github Stats 😢</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=REI-JJ&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+    
+## Skills:
+        
+<img style="border-radius: 10px;" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      
+## Socials:
+  <a href="https://www.instagram.com/jorgejesus/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.twitch.tv/rei_jj" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+
+</div>
